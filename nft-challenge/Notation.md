@@ -1,0 +1,3 @@
+-> sanity deploy
+-> name: nftchallengedevjpedro
+-> sanity is deployed -> https://nftchallengedevjpedro.sanity.studio/
